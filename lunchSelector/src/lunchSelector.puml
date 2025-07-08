@@ -34,11 +34,14 @@ SECONDS
 
 class koo {
 bool Taehan
+int BP
 
 }
 
 class jin {
 bool jinZa
 }
+
+'테스트'
 
 @enduml
