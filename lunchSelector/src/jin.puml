@@ -1,11 +1,6 @@
 @startuml
 'https://plantuml.com/class-diagram
 
-abstract class UIAsset {
-    private Button button
-    private SliderBar slider
-}
-
 abstract class AbstractList
 abstract AbstractCollection
 interface List
@@ -18,8 +13,6 @@ Collection <|- List
 AbstractCollection <|- AbstractList
 AbstractList <|-- ArrayList
 
-interface IDislikeFood {}
-
 class ArrayList {
 Object[] elementData
 size()
@@ -29,12 +22,6 @@ enum TimeUnit {
 DAYS
 HOURS
 MINUTES
-SECONDS
-}
-
-class koo {
-bool Taehan
-
 }
 
 class jin {
