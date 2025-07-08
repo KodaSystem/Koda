@@ -22,6 +22,11 @@ enum TimeUnit {
 DAYS
 HOURS
 MINUTES
+SECONDS
+}
+
+class koo {
+bool Taehan
 }
 
 @enduml
