@@ -1,13 +1,9 @@
 @startuml
 'https://plantuml.com/class-diagram
 
-class koo {
-    bool Taehan
-}
-
 abstract class UIAsset {
     private Button button
-    private SliderBar sliderBar
+    private SliderBar slider
 }
 
 @enduml
