@@ -34,6 +34,7 @@ SECONDS
 
 class koo {
 bool Taehan
+int BP
 
 }
 
