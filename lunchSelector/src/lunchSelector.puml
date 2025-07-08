@@ -42,4 +42,6 @@ class jin {
 bool jinZa
 }
 
+'테스트'
+
 @enduml
