@@ -13,8 +13,6 @@ Collection <|- List
 AbstractCollection <|- AbstractList
 AbstractList <|-- ArrayList
 
-interface IDislikeFood {}
-
 class ArrayList {
 Object[] elementData
 size()
@@ -24,11 +22,10 @@ enum TimeUnit {
 DAYS
 HOURS
 MINUTES
-SECONDS
 }
 
-class koo {
-bool Taehan
+class jin {
+bool jinZa
 }
 
 @enduml
