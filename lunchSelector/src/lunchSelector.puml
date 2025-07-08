@@ -29,4 +29,8 @@ class koo {
 bool Taehan
 }
 
+class jin {
+bool jinZa
+}
+
 @enduml
